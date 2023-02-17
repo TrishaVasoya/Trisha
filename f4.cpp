@@ -7,7 +7,7 @@ using namespace std;
 /* In main function where main source code is writtten for execute.*/
 int main()
 {
-    int n[10];
+    int n[10], i, min, min_index = 0;//Declare array n with size of 10.
 
     return 0;
 }
