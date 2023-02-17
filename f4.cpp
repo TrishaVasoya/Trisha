@@ -4,7 +4,7 @@ Student id      : 8872707
 File			:f4.cpp
 Project			: focused assignment 4
 File submission	: 2023-02-16
-Description		: Getting the lowest value by using array.
+
 
 */
 #include<iostream>
