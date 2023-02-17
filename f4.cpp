@@ -17,7 +17,14 @@ int main()
     {
 
         cin >> n[i]; //Cin function for storing value;
+        if (n[i] < min) //If condtion for comparing user input to the min variable;
+        {
+            min = n[i];
+            min_index = i;
+        }
     }
+
+    cout << "The lowest value is " << min << "at index " << min_index << endl;// Print lowest number here.
 
     return 0;
 }
