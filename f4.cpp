@@ -1,4 +1,12 @@
+/*
+Student name    : Trisha vasoya
+Student id      : 8872707
+File			:f4.cpp
+Project			: focused assignment 4
+File submission	: 2023-02-16
+Description		: Getting the lowest value by using array.
 
+*/
 #include<iostream>
 #include<climits>//This is the standard library in c++ which is for the storing and determining the maximumand minimum value.
 
