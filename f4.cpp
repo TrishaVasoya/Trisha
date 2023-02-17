@@ -11,7 +11,13 @@ int main()
     min = INT_MAX;//Variable min for finding lowest number.
 
     cout << "Enter the number\n";//Prompting user.
+    
+    /* Use a for loop to get an user input*/
+    for (i = 0; i <= 9; i++)
+    {
 
+        cin >> n[i]; //Cin function for storing value;
+    }
 
     return 0;
 }
